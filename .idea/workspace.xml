@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d262e1a-0826-49ee-9e5d-ed7b61507aec" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="d729371c-eea6-4c85-b88a-c3c1c179b828" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2As83HBSwsNkA9KXqDt4ybu42UZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/User/Desktop/DayDream Scoreboard/Java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "zielu.gittoolbox.prj.config.selected.tab.id": "zielu.gittoolbox.config.prj.diagnostic"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="source.SouthArabianConfidentialSecrencyAgency.NuclearVariables" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="source.SouthArabianConfidentialSecrencyAgency.BasicsWStrobe" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PseudoRandomRNG">
+    <configuration name="AdminPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="source.SACSA.AdminPanel.AdminPanel" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="source.SACSA.AdminPanel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Detonator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="source.SACSA.Detonator" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="source.SACSA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="source.SACSA.OOP.Main" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="source.SACSA.OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PseudoRandomRNG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="source.SACSA.PseudoRandomRNG" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="source.SACSA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="finale" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="source.SACSA.finale" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="source.SACSA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PseudoRandomRNG" />
+        <item itemvalue="Application.Detonator" />
+        <item itemvalue="Application.AdminPanel" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.finale" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d262e1a-0826-49ee-9e5d-ed7b61507aec" name="Changes" comment="" />
+      <created>1655786732842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655786732842</updated>
+      <workItem from="1655786734117" duration="3265000" />
+      <workItem from="1655795378137" duration="12000" />
+      <workItem from="1655879877110" duration="103000" />
+      <workItem from="1655882111216" duration="34000" />
+      <workItem from="1655959253887" duration="6046000" />
+      <workItem from="1655968342172" duration="33000" />
+      <workItem from="1655968387561" duration="637000" />
+      <workItem from="1656030465312" duration="5036000" />
+      <workItem from="1656047178459" duration="4587000" />
+      <workItem from="1656368453531" duration="141000" />
+      <workItem from="1656389629539" duration="598000" />
+      <workItem from="1656399837718" duration="30000" />
+      <workItem from="1656573684713" duration="53000" />
+      <workItem from="1656632514648" duration="37000" />
+      <workItem from="1656815360124" duration="3169000" />
+      <workItem from="1656906987003" duration="596000" />
+      <workItem from="1657085315125" duration="4957000" />
+      <workItem from="1657261966963" duration="985000" />
+      <workItem from="1657263032982" duration="7789000" />
+      <workItem from="1657423607949" duration="988000" />
+      <workItem from="1657426781675" duration="199000" />
+      <workItem from="1657592779334" duration="2155000" />
+      <workItem from="1657773402028" duration="1326000" />
+      <workItem from="1657850942214" duration="4071000" />
+      <workItem from="1657855333803" duration="27000" />
+      <workItem from="1657935198918" duration="376000" />
+      <workItem from="1658031721650" duration="4380000" />
+      <workItem from="1658535607224" duration="309000" />
+      <workItem from="1659638654341" duration="2838000" />
+      <workItem from="1659641917819" duration="1483000" />
+      <workItem from="1659674681956" duration="1413000" />
+      <workItem from="1659729942555" duration="1058000" />
+      <workItem from="1659737362493" duration="88000" />
+      <workItem from="1659834259066" duration="56000" />
+      <workItem from="1659850869245" duration="2176000" />
+      <workItem from="1659859843511" duration="149000" />
+      <workItem from="1662710191897" duration="602000" />
+      <workItem from="1662743777323" duration="85000" />
+      <workItem from="1663779401421" duration="2963000" />
+      <workItem from="1663784947636" duration="2428000" />
+      <workItem from="1663790196727" duration="2426000" />
+      <workItem from="1663795822215" duration="8000" />
+      <workItem from="1663888412935" duration="598000" />
+      <workItem from="1663916512530" duration="1197000" />
+      <workItem from="1664148085785" duration="760000" />
+      <workItem from="1665027344001" duration="5396000" />
+      <workItem from="1665035074982" duration="2741000" />
+      <workItem from="1668141897039" duration="4703000" />
+      <workItem from="1668407434123" duration="38000" />
+      <workItem from="1668545594313" duration="16000" />
+      <workItem from="1668670900324" duration="184000" />
+      <workItem from="1668707385951" duration="1346000" />
+      <workItem from="1668708850038" duration="304000" />
+      <workItem from="1668709171758" duration="74000" />
+      <workItem from="1668709257071" duration="27000" />
+      <workItem from="1668709295041" duration="57000" />
+      <workItem from="1668709361337" duration="144000" />
+      <workItem from="1668709516814" duration="64000" />
+      <workItem from="1668709593634" duration="310000" />
+      <workItem from="1668709914758" duration="340000" />
+      <workItem from="1668710268765" duration="1414000" />
+      <workItem from="1668714585262" duration="41000" />
+      <workItem from="1668714634619" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
